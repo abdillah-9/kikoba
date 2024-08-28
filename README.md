@@ -16,16 +16,20 @@ FEATURES USED:
 MAIN FEATURES.
 
 •	Contributing money to the system.
+
 This is the money that a member of kikoba contribute based on needs of their group.
 This amount alters the amount that a member can ask or borrow from the group.
 
 •	Viewing Balance.
+
 Every user is able to see total money he she has contributed so far.
 
 •	Ask for loan.
+
 Each member can get loan from the app based on the amount he or she has contributed. NOTE: Member cannot access loan more than 90% of his total contribution or available balance.
 
 •	Pay loan.
+
 Each member can pay the amount he or she has borrowed
 
 
