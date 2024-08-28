@@ -1,12 +1,15 @@
 PROJECT TITLE:
 SAVING AND BORROWING SYSTEM FROM LOCAL ASSOCIATIONS (Kikoba)
+
 DESCRIPTION:
 Kikoba is your app for people who want to make a group that performs transactions effortlessly, those transactions including contribution, obtaining loans, paying loans, and balance viewing all in one place.
+
 TECHNOLOGIES USED:
 FRONT-END INVOLVES.
 ReactNative (Expo)
 BACK-END INVOLVES.
 Vanillah PHP, MySQL & NGROK
+
 FEATURES USED:
 MAIN FEATURES.
 •	Contributing money to the system.
