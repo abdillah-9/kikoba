@@ -30,6 +30,7 @@ Each member can pay the amount he or she has borrowed
 
 
 INSTALLATION AND USAGE:
+
 •	First make sure your computer has node installed. Try by running node –v so that to identify version of your node if its installed.
 
 •	Then make sure you have installed MySql and PHP hence its easy to install them by using XAMPP.
